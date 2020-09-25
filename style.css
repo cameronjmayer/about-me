@@ -1,0 +1,60 @@
+<style>
+        body {
+            background: black;
+        
+        }
+
+        #container {
+            background: white;
+            color: #000000; 
+            width: 50%;
+            margin: auto;
+            margin-top: 20px;
+            padding: 20px 200px 20px 200px;
+            font-family: 'Asap', sans-serif;
+            
+        }
+        .left-col {
+            float: left;
+            margin-left: -100px;
+            
+           
+        }
+        .right-col {
+            float: right;
+            margin-bottom: 20px;
+            margin-right: -100px;
+            margin-left: -100px;
+            margin-top: 40px;
+        }
+        .clearFix {
+            clear: both;
+        }
+        .thin-purple-border {
+            border-color:#A64AC9;
+            color: #A64AC9;
+            font-size: 20px;
+            font-family: 'Asap';
+            border-width: 2.4px;
+            border-style: solid;
+            border-radius: 5px;
+            padding: 9px 11px;
+            text-decoration: none;
+        }
+        .bandaid {
+            margin-bottom: 40px
+        }
+        img.one {
+            height: auto;
+            width: 50%;
+            style: 
+            margin: 50px -20px 50px 100px;
+            float: right;
+            margin-left: 50px;
+            margin-bottom: 50px;
+        }
+       .purple-links {
+           color: #A64AC9;
+
+       }
+</style>
